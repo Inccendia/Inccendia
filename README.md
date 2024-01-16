@@ -1,13 +1,13 @@
 <h1 align="center">Hi There 👋 I'm Gabi 😊</h1>
 <h3 align="center">A computer science student and aspiring game developer from Bulgaria ✨</h3>
 
-- 🌱 I’m Currently Learning **all things computer science. Halfway through my degree! 💜 I am also actively learning C++ and Ruby On Rails on my own, outside my university courses. 🤩**
+- 🌱 I’m Currently Learning: **All things computer science. Halfway through my degree! 💜 I am also actively learning C++ and Ruby On Rails on my own, outside my university courses. 🤩**
 
-- 🚀 I’m Currently Delving Into **web development, crafting a portfolio website to showcase my coding journey.**
+- 🚀 I’m Currently Delving Into: **Web development, crafting a portfolio website to showcase my coding journey.**
 
-- 💬 Ask Me About **video game design and artificial intelligence. 🤖**
+- 💬 Ask Me About: **Video game design and artificial intelligence + robotics. 🤖**
 
-- ⚡ Fun Fact **I once debugged a code while defeating a boss in-game simultaneously. Multitasking level: Legendary!🎮 #CodingWizard 😏**
+- ⚡ Fun Fact: **I once debugged a code while defeating a boss in-game simultaneously. Multitasking level: Legendary!🎮 #CodingWizard 😏**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
